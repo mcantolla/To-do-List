@@ -1,0 +1,30 @@
+#agregarTarea {
+    background-color: rgb(1, 170, 1);
+}
+
+.info {
+    display: flex;
+}
+
+.cuenta {
+    margin-right: 4em;
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulos {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 110px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    list-style-type: none;
+}
